@@ -75,5 +75,20 @@ Distribute Allocate:
 Extra Functions: minted, burning, frozen funds.
 -Minted GENA - will be proceed, if there is a stolen funds from market or other scam with report & proof, since the Insurance only cover for 10% by the Tulsa Pro Company, more than that we will re-Minted GENA token, as long as the Circulation Max to 117,760,000 GENA, the supplied will be still the same as it total max.
 
--Burning GENA -
+-Burning GENA - are for the re-build or can be said as refund from the stolen funds, if the hacker/scammer willing to refund the GENA, the time-asset that has been minted will be Burn due to make the total max supply stay the same. 
+
+-Frozen Funds - we are very clear for safety, transparency. As long as the reports are Genuine, we will Froze the GENA "Fund's" into the Target: Heist Wallet, the Function are meant to be securing the other value and price. Tulsa Pro Company, are stand for 24/7 for this Security Stage via governance@tulsa.pro
+
+ended - white-paper of Genta GENA *BSC Network & Tulsa Pro Company
+
+
+Genta, GENA. - version History(C) 2020 earlier.
+declaration, from Ann Man, Ari, Bagus, base from Team of Global Open-Source Tulsa Pro. Network.
+
+baseLinks - of learn 
+BSC: https://academy.binance.com/en/articles/an-introduction-to-binance-smart-chain-bsc
+Base Main-Network: https://tulsa.pro/genta
+Central Explorer: https://bscscan.com/
+Binance Coin: https://www.binance.com/en/bnb
+
 
