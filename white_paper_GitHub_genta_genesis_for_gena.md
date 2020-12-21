@@ -72,4 +72,8 @@ Distribute Allocate:
 3.08% -- Team & Developers
 1% -- Network Security
 
-...extra Functions: minted, burning, frozend funds.
+Extra Functions: minted, burning, frozen funds.
+-Minted GENA - will be proceed, if there is a stolen funds from market or other scam with report & proof, since the Insurance only cover for 10% by the Tulsa Pro Company, more than that we will re-Minted GENA token, as long as the Circulation Max to 117,760,000 GENA, the supplied will be still the same as it total max.
+
+-Burning GENA -
+
