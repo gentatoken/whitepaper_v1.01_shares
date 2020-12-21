@@ -11,10 +11,10 @@ Exploit e.g: Users (Trade-BNB) -> Converting into the Shares of GENA (Trade GENA
 
  -- GENTA -- 
 the Exploitation of Gena are the Shares that used by implementing to Token under Binance Smart-Chain Blockchain network, by having the best Protocol under BSC and Insurance Tokens, it divide to be Distribute & usable directly from main-market that Available for GENA. 
-other main-case for Genta (GENA) is the Shares: Protocol Shares. What the Protocol Shares does on GENA, it Distribute up to 50% from total-supply and receive into Validator, the Validator needed to Hodl for 3-months long as Hodl Only, after then turn into other Validator's, validators capacity only available up to: 25,000 Validator in the first Terms for 3-month Period, the Pool Prize for Validator goes by: 0.92 Percentage * 1280 Pixelate *divide* by 32 GENA (Validator one sizes) = 36.8 GENA with the Receiving Pool Prize for each-month.
+other main-case for Genta (GENA) is the Shares: Protocol Shares. What the Protocol Shares does on GENA, it Distribute up to 50% from total-supply and receive into Validator, the Validator needed to Hodl for 3-months long as Hodl Only, after then turn into other Validator's, validators capacity only available up to: 10,000 Validator in the first Terms for 3-month Period, the Pool Prize for Validator goes by: 0.92 Percentage * 1280 Pixelate *divide* by 32 GENA (Validator one sizes) = 36.8 GENA with the Receiving Pool Prize for each-month.
 -Receiving Time: 3x of 3months.
 -Multiple Size Wallet: Accepted.
--Rebase & Launch: passed 25,000 Active Wallet on GENA (Under BSC Main-Network). - (re-Base 2nd Phase: halving re-distribute, it's happen once e.g:50,000 Account Activate on GENA, and the Pool Prize going to be Half from the First terms) - (And goes on until Multiple Halving)
+-Rebase & Launch: passed 10,000 Active Wallet on GENA (Under BSC Main-Network). - (re-Base 2nd Phase: halving re-distribute, it's happen once e.g:20,000 Account Activate on GENA, and the Pool Prize going to be Half from the First terms) - (And goes on until Multiple Halving)
 
 -Mechanism of Insurance and Phase of Validator that will active is, one Validator are having about 80% Insurance of Liquidity Pool in GENA Token.
 real-proof of Insurance backed assets.
@@ -36,6 +36,21 @@ the Simple way to Describe the Mechanism is the way to use for Mainly Gain Share
 - using the Cryptography, people can freely-manage their GENA in Decentralized world in Blockchain, for DApps (example), the DApps are the Decentralized Apps that works for Liquidate with other Assets, Decentralized Finance.
 Build better Finance on GENA, the Finance Apps on GENA are the many things that can happen. It deploy and re-get base from the fixed price with the Fast network.
 
-/Stablecoins - Fiat Currency works (both)
+/stablecoins - Fiat Currency works (both)
 GENA & other Stablecoins can also be work at the same time under Decentralized Apps, with the backed by Liquidity of Stablecoins, GENA can be trade free- &-good cases in the main-network. 
 
+/smart-contract: the smart contract of GENA are using the BEP20 Format Asset Token.
+: 0x7f4959528D4C9c7379b3437C7Eea40376fD96B8a (can be found on Explorer - BSC Scan & other BEP20 Explorer)
+
+/transparency - of GENA
+Since GENA are the Token under Decentralized world, users/participant can found their Transparent report on the Blockchain, mostly used by TXN ID, the hash TX (Transactions).
+Also with the Details in it, the Decentralized World are meant to be fully-Transparent. 
+Every-Participant can see each-other Balance without knowing the Identity, it is the Anonymous. 
+
+/distribute - GENA
+GENA (Symbol), are the Shares distribute asset, that have more than 100 Million supplied on the Global-space Main-Network.
+
+Shares constructions: 
+-math function GENA: 10*1280 (pixels)*0.92(percentage locked)*10000 (distribution) 
+Locked for 0.92% onto Smart-Contract of Genta: 0x7f4959528D4C9c7379b3437C7Eea40376fD96B8a for 1,083,392.000004246439 Million GENA already been locked as 3275827 6594 Block Confirmations.
+the Capability of locking the GENA in the smart-contract is to Reveal the real Proof unTouched asset shares, it goes to Smart-Contract to none-spendable asset function.
