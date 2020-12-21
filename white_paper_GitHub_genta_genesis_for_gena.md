@@ -54,3 +54,22 @@ Shares constructions:
 -math function GENA: 10*1280 (pixels)*0.92(percentage locked)*10000 (distribution) 
 Locked for 0.92% onto Smart-Contract of Genta: 0x7f4959528D4C9c7379b3437C7Eea40376fD96B8a for 1,083,392.000004246439 Million GENA already been locked as 3275827 6594 Block Confirmations.
 the Capability of locking the GENA in the smart-contract is to Reveal the real Proof unTouched asset shares, it goes to Smart-Contract to none-spendable asset function.
+-0.92% from total Supply can-not be used*, it's only hodl and stayed on the Smart-Contract, instead of Burning, 0.92% are the Implemented as Locking Asset that can not be use for long-terms/all time period.
+
+Pixelate-10 & 1280 Pixels are the Pixels of GENA artwork formated pixel, it goes to 128:*10 instead of 124:*10 (appreciate numbers).
+
+10,000 Distribute are cound as the Future distribute for 32 GENA validator, it only runs 10,000 validator for every(3-months active validator) as it mention above. -- GENA 2.0 (unrealease) phase:0 it will roll-out after 10,000 account Activated on the GENA, BSC - Blockchain Network.
+
+Result: 117,760,000 Million GENA as the Maximum supplied that can be  "spend" & "use"
+
+-----
+
+Distribute Allocate: 
+50% -- Allocated as Storage Shares
+30% -- uses for GENA 2.0 (Validator) (it will rebase & re-Distribute as circle in the Circulations for 30% maximum stocks Shares)
+10% -- Insurance of GENA
+5% -- Cap Circulation in first-terms
+3.08% -- Team & Developers
+1% -- Network Security
+
+...extra Functions: minted, burning, frozend funds.
