@@ -10,8 +10,13 @@ Why we should know about Binance Coin ? the Binance Coin or known as BNB, are th
 Exploit e.g: Users (Trade-BNB) -> Converting into the Shares of GENA (Trade GENA) -> Re-Convert (Trade back to BNB & other Assets) -> Re-Undo the Process for Shares.
 
  -- GENTA -- 
-the Exploitation of Gena are the Shares is used and implemented as Token under Blockchain network, by having the best Protocol under BSC and Insurance Tokens, it divide to be Distribute & usable directly from main-market that Available for Gena. 
-Uses case for Genta (GENA) is the Shares: Protocol Shares. What the Protocol Shares does in GENA, it Distribute up to 50% from total-supply and receive into Validator, the Validator needed to Hodl for 3-months Hodl Only, after then turn into other Validator, validator capacity only available up to: 25,000 Validator in the first Terms for 3-month Period, the Pool Prize for Validator goes by: 0.92 Percentage 
--Receiving Time: 3x - 3months
+the Exploitation of Gena are the Shares that used by implementing to Token under Binance Smart-Chain Blockchain network, by having the best Protocol under BSC and Insurance Tokens, it divide to be Distribute & usable directly from main-market that Available for GENA. 
+other main-case for Genta (GENA) is the Shares: Protocol Shares. What the Protocol Shares does on GENA, it Distribute up to 50% from total-supply and receive into Validator, the Validator needed to Hodl for 3-months long as Hodl Only, after then turn into other Validator's, validators capacity only available up to: 25,000 Validator in the first Terms for 3-month Period, the Pool Prize for Validator goes by: 0.92 Percentage * 1280 Pixelate *divide* by 32 GENA (Validator one sizes) = 36.8 GENA with the Receiving Pool Prize for each-month.
+-Receiving Time: 3x of 3months.
+-Multiple Size Wallet: Accepted.
+-Rebase & Launch: passed 25,000 Active Wallet on GENA (Under BSC Main-Network). - (re-Base 2nd Phase: halving re-distribute, it's happen once e.g:50,000 Account Activate on GENA, and the Pool Prize going to be Half from the First terms) - (And goes on until Multiple Halving)
+
+-Mechanism of Insurance and Phase of Validator that will active is, one Validator are having about 80% Insurance of Liquidity Pool in GENA Token.
+real-proof of Insurance backed assets.
 
 Money & Asset : it combine to two method: first.Protocol Shares, for someone using & hodl the GENA, it will Distribute 
