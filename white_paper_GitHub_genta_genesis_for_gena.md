@@ -33,4 +33,9 @@ the simple ways to Describe what GENA is. GENA are the Token (Shares), Asset tha
 /continue public - GENA
 People's generating the Fiat -> Cryptocurrency (BNB-mainly assets) -> Generate GENA -> re-Generate into other Cryptocurrency or mainly (BNB).
 the Simple way to Describe the Mechanism is the way to use for Mainly Gain Shares.
-- using the Cryptography, people can freely-manage their GENA in Decentralized world in Blockchain, for DApps (example), the DApps are the Decentralized Apps that works for Liquidate with other Assets. 
+- using the Cryptography, people can freely-manage their GENA in Decentralized world in Blockchain, for DApps (example), the DApps are the Decentralized Apps that works for Liquidate with other Assets, Decentralized Finance.
+Build better Finance on GENA, the Finance Apps on GENA are the many things that can happen. It deploy and re-get base from the fixed price with the Fast network.
+
+/Stablecoins - Fiat Currency works (both)
+GENA & other Stablecoins can also be work at the same time under Decentralized Apps, with the backed by Liquidity of Stablecoins, GENA can be trade free- &-good cases in the main-network. 
+
