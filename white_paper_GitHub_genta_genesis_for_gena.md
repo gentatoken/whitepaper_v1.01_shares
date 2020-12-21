@@ -19,4 +19,18 @@ other main-case for Genta (GENA) is the Shares: Protocol Shares. What the Protoc
 -Mechanism of Insurance and Phase of Validator that will active is, one Validator are having about 80% Insurance of Liquidity Pool in GENA Token.
 real-proof of Insurance backed assets.
 
-Money & Asset : it combine to two method: first.Protocol Shares, for someone using & hodl the GENA, it will Distribute 
+4th Layer Script : 1, 2, 3, 4
+1stL. GENA
+2ndL. wBNB/wETH
+3rdL. Assets (Other contain Assets)
+4thL. Shares - Validator
+
+this is the Main Layer that works for using GENA (Shares) - the Shares is under-Layer, 4th Layer = supported by: GENA itself (Insurance), BNB (Asset)/ ETH (Asset), Shares (Validator Jobs Insurance).
+
+/public code - Shares 
+the simple ways to Describe what GENA is. GENA are the Token (Shares), Asset that running under Network Blockchain. It define as a Code itself to be Currency, Asset, Shares, and Pro-Generate of Virtual Cash.
+
+/continue public - GENA
+People's generating the Fiat -> Cryptocurrency (BNB-mainly assets) -> Generate GENA -> re-Generate into other Cryptocurrency or mainly (BNB).
+the Simple way to Describe the Mechanism is the way to use for Mainly Gain Shares.
+- using the Cryptography, people can freely-manage their GENA in Decentralized world in Blockchain, for DApps (example), the DApps are the Decentralized Apps that works for Liquidate with other Assets. 
